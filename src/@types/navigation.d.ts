@@ -6,6 +6,7 @@ export declare global {
       Signin: undefined
       Signup: undefined
       Home: undefined
+      Home: undefined
       Notifications: undefined
       Chat: undefined
       Profile: undefined
