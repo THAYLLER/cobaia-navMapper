@@ -9,6 +9,7 @@ export declare global {
       Home: undefined
       Notifications: undefined
       Notifications: undefined
+Notifications: undefined
       Chat: undefined
       Profile: undefined
       UpdateProfile: undefined
