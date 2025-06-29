@@ -6,7 +6,7 @@ export declare global {
       Signin: undefined
       Signup: undefined
       Home: undefined
-      Home: undefined
+      Home: {}
       Notifications: undefined
       Notifications: undefined
       Notifications: undefined
