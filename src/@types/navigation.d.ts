@@ -3,6 +3,7 @@ export declare global {
     interface RootParamList {
       Lobby: undefined;
       Onboarding: undefined
+      Onboarding: undefined
       Signin: undefined
       Signup: undefined
       Home: undefined
