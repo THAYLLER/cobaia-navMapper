@@ -9,6 +9,7 @@ export declare global {
       Home: undefined
       Home: undefined
       Home: {}
+      Home: {}
       Notifications: undefined
       Notifications: undefined
       Notifications: undefined
