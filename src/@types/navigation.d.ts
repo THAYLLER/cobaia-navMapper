@@ -4,7 +4,7 @@ export declare global {
       Lobby: undefined;
       Onboarding: undefined
       Onboarding: undefined
-      Signin: undefined
+      Signin: undefined 
       Signup: undefined
       Home: undefined 
       Home: undefined
